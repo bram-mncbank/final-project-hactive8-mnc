@@ -1,27 +1,27 @@
 # Finale Project Hactive8                                                       
                                                                               
-Installation                                                                  
+## Installation                                                                  
                                                                               
 You must download and install Go, follow this instruction to install.         
                                                                               
 After Golang installed, Follow this instructions                              
                                                                               
-#clone                                                                        
+## Clone                                                                        
                                                                               
 $ git clone https://github.com/alsigit/hacktiv8_final_project.git             
                                                                               
-#move to project                                                              
+## Move to project                                                              
                                                                               
 $ cd finale-project-hactive8-mnc                                              
                                                                               
-# Run the application                                                         
+## Run the application                                                         
                                                                               
 $ go run main.go                                                              
                                                                               
-# Access Project                                                              
+## Access Project                                                              
 Open browser on port 8888                                                     
                                                                               
-# Register                                                                    
+## Register                                                                    
 Send POST request with this endpoint:                                         
   http://localhost:8888/register                                              
 with Payload as json format:                                                  
